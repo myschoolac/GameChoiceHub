@@ -14,3 +14,6 @@ The GameChoiceHub is a game selection hub where the user gets the chance to sele
 
 *allow them to go back to the hub after the game is done or after they are bored
 
+##Class Diagram
+This is the starter class diagram for what my GameHub will look like
+
