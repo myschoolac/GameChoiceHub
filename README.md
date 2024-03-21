@@ -5,8 +5,12 @@ The GameChoiceHub is a game selection hub where the user gets the chance to sele
 
 ## Project Objectives
 *add user-interactive games that are fun
+
 *implement an all in one hub for these games
+
 *prompt the user for a selection of what game to play
+
 *allow the user to play the said game
+
 *allow them to go back to the hub after the game is done or after they are bored
 
