@@ -18,3 +18,6 @@ The GameChoiceHub is a game selection hub where the user gets the chance to sele
 This is the starter class diagram for what my GameHub will look like
 ![Class Diagram](https://github.com/myschoolac/GameChoiceHub/blob/main/images/Screenshot%202024-03-27%20185739.png?raw=true)
 
+## GUI Mockup
+This is the starter mockup of what my gameHub will start off as
+![GUI Mockup](https://github.com/myschoolac/GameChoiceHub/blob/main/images/IMG_1887.jpg?raw=true)
