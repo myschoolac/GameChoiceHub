@@ -40,7 +40,7 @@ class GameHub:
 game_hub = GameHub()
 # Place the modification here
 def wait_for_keypress():
-  input("Press any key to start the Game Hub, and then press enter after typing the keypress:")
+  input("Press any key to start the Game Hub, and then press enter after typing the keypress, or just press enter to play:")
 def start_game_hub():
     game_hub.play()
 wait_for_keypress()  # Wait for any keypress to start the game hub
