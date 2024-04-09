@@ -4,6 +4,7 @@ from coin_flip import CoinFlip
 from hangman import Hangman
 from war import War
 
+
 # Game Hub class
 class GameHub:
     def __init__(self):
@@ -37,4 +38,13 @@ class GameHub:
 
 # Create a game hub and play games
 game_hub = GameHub()
+# Place the modification here
+def wait_for_keypress():
+  input("Press any key to start the Game Hub, and then press enter after typing the keypress:")
+def start_game_hub():
+    game_hub.play()
+wait_for_keypress()  # Wait for any keypress to start the game hub
+start_game_hub()
+
+
 game_hub.play()
